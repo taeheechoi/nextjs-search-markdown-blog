@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "date-fns": "^2.25.0",
+    "fuzzy-search": "^3.2.1",
     "gray-matter": "^4.0.3",
     "husky": "^7.0.2",
     "next": "11.1.2",
